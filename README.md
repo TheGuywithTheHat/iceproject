@@ -2,6 +2,8 @@
 A browser extension created by the Imgur Community for use on imgur.   
 https://chrome.google.com/webstore/detail/imgur-community-extension/diaemphodipkjighmajoojpgljpjbebd
 
+Discord: https://discord.gg/0126CWWHr0DyiJYz6
+
 # Info
 The plugin is written with jQuery. There are several improvements that can be made to the current structure. In the next
 few days I'll be adding comments and seperating and modularizing (is that a word?) code. 
@@ -54,3 +56,19 @@ I don't have much yet, but I have a feeling we're going to get a lot of feature 
 Enough words, lets code!
 
 TL;DR: Let's code for fun. Add me or stay posted if you want to participate.
+
+# License
+
+Copyright 2016 Mark Muego
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+
+    http://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
