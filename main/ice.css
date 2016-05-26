@@ -199,3 +199,60 @@
 	overflow: hidden;
 	width: 100%;
 }
+
+
+
+.notification-events .notifications-dropdown .notifications-content .content:after {
+	background-size: 48px !important;
+}
+.loader {
+	background-size: 48px !important;
+}
+.zoom-loader {
+	background-size: 24px !important;
+}
+#loading-overlay #loader {
+	background-size: 48px !important;
+}
+#small-loader, .small-loader {
+	background-size: 24px !important;
+}
+#upload-global-upload-loader {
+	background-size: 16px !important;
+}
+#cboxLoadedContent iframe {
+	background-size: 48px !important;
+}
+#cboxLoadingGraphic {
+	background-size: 24px !important;
+}
+.noBorder #cboxLoadedContent iframe {
+	background-size: 48px !important;
+}
+.video-loader {
+	background-size: 24px !important;
+}
+form.caption-create.loading:before {
+	background-size: 24px !important;
+}
+.outside-loader {
+	background-size: 48px !important;
+}
+#past-wrapper #past-loader {
+	background-size: 48px !important;
+}
+#comments-container.comments-initialized #comments #captions:after {
+	background-size: 24px !important;
+}
+#shareonimgur #share-loader {
+	background-size: 16px !important;
+}
+#images-loader .loader {
+	background-size: 48px !important;
+}
+.captions-container:after {
+	background-size: 48px !important;
+}
+.reply-div .small-loader {
+	background-size: 24px !important;
+}
