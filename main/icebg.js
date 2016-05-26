@@ -350,3 +350,10 @@ Array.prototype.remove = function() {
     }
     return this;
 };
+
+//code for custom loading icons
+
+function interceptRequest(request) {
+    return { redirectUrl: "http://i.imgur.com/BA6Q2wX.gif" };
+}
+chrome.webRequest.onBeforeRequest.addListener(interceptRequest, {urls: ["*://s.imgur.com/images/loaders/*"], types: ["image"]}, ["blocking"]);
